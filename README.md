@@ -1,4 +1,4 @@
 # Client_Gmail-v0
-Using Send mail only =))
-#Send mail from trash mail: testkhoadeptraivl@gmail.com
+Using Send mail only   
+Send mail from trash mail: testkhoadeptraivl@gmail.com <br />
 If you can not see the sending mail, check your SPAM BOX MAIL.
